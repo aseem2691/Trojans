@@ -1,4 +1,0 @@
-Trojans
-=======
-
-Hack-a-thon 
